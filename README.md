@@ -52,19 +52,6 @@ This project is a simple **Spring Boot REST API** application designed for manag
 
 ---
 
-## How to Run the Application  
-
-1. Clone this repository to your local machine.  
-2. Ensure you have Java and Maven installed.  
-3. Run the following commands:  
-   ```bash
-   mvn clean install
-   mvn spring-boot:run
-   ```  
-4. Access the API using tools like Postman or your browser at `http://localhost:8080/courses`.  
-
----
-
 ## Example API Usage  
 
 ### Create a Course  
